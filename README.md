@@ -4,7 +4,7 @@
 ![GoLang](https://img.shields.io/badge/GoLang-50%25-255EB2)
 
 Freshman at Washington State University. Pursuing a Bachelor of Science in Computer Science.  
-Currently residing in [Mukilteo, Washington](https://www.google.com/maps/place/Mukilteo,+WA)  
+Currently living in [Mukilteo, Washington](https://www.google.com/maps/place/Mukilteo,+WA)  
 - I'm currently learning **C/C++** in my coursework at WSU.
 - I'm currently learning and applying **GoLang** towards browser automation.
 - I'm interested in collaborating on **Open Source** projects.
