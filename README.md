@@ -6,7 +6,7 @@
 Freshman at Washington State University. Pursuing a Bachelor of Science in Computer Science.  
 Currently living in [Mukilteo, Washington](https://www.google.com/maps/place/Mukilteo,+WA)  
 - I'm currently learning **C/C++** in my coursework at WSU.
-- I'm currently learning and applying **GoLang** towards browser automation.
+- I'm using my experience with **C++** to learn about **Cellular Automata**
 - I'm interested in collaborating on **Open Source** projects.
 <!--
 **braygo/braygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
