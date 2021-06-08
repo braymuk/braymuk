@@ -8,6 +8,7 @@ Currently living in [Mukilteo, Washington](https://www.google.com/maps/place/Muk
 - I'm currently learning **C/C++** in my coursework at WSU.
 - I'm using my experience with **C++** to investigate **Cellular Automata**.
 - I'm interested in collaborating on **Open Source** projects.
+- I'm exploring the JavaScript ecosystem with the help of "The Odin Project"
 <!--
 **braygo/braygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
