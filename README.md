@@ -10,7 +10,7 @@ Currently living in [Mukilteo, Washington](https://www.google.com/maps/place/Muk
 - I'm interested in collaborating on **Open Source** projects.
 - I'm exploring front end development using JavaScript and the help of "The Odin Project".
 
-**Feel free to check out all my recent projects pinned below!**
+**Feel free to check out my most recent projects pinned below!**
 <!--
 **braygo/braygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
