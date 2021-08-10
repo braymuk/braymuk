@@ -3,7 +3,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-100%25-54D2F9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-255EB2)
 
-Rising Sophmore at Washington State University. Pursuing a Bachelor of Science in Computer Science.  
+Rising Sophomore at Washington State University. Pursuing a Bachelor of Science in Computer Science.  
 Currently living in [Mukilteo, Washington](https://www.google.com/maps/place/Mukilteo,+WA)  
 - I'm currently learning **C** and **C++** in my coursework at WSU.
 - I'm using **C++** to investigate **Cellular Automata**.
