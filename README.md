@@ -3,7 +3,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-100%25-54D2F9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-255EB2)
 
-I'm a Sophomore at Washington State University pursuing a Bachelor of Science in Computer Science.  
+Sophomore at Washington State University pursuing a Bachelor of Science in Computer Science.  
 Currently living in [Pullman, Washington](https://www.google.com/maps/place/Pullman,+WA).
 - I'm utilizing **C++** in my coursework at WSU.
 - I'm exploring front end development using JavaScript and the help of "The Odin Project".
