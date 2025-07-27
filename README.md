@@ -1,11 +1,7 @@
 # Hey! I'm Brayden <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Junior at Washington State University pursuing a Bachelor of Science in Computer Science.  
-Currently living in [Pullman, Washington](https://www.google.com/maps/place/Pullman,+WA).
-- I'm utilizing **C++** in my coursework at WSU.
-- I'm exploring full stack developement with frameworks like **Svelte** and **Flask**.
-- I'm interested in collaborating on **Open Source** projects.
-
+I'm a software engineer who graduated from Washington State University in 2024.  
+Currently living in [Denver, Colorado](https://www.google.com/maps/place/Denver,+CO).
 
 **Please check out my most recent projects pinned below!**
 <!--
