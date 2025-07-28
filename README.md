@@ -1,9 +1,7 @@
 # Hey! I'm Brayden <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-I'm a software engineer who graduated from Washington State University in 2024.  
+I'm a software engineer.
 Currently living in [Denver, Colorado](https://www.google.com/maps/place/Denver,+CO).
-
-**Please check out my most recent projects pinned below!**
 <!--
 **braygo/braygo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
